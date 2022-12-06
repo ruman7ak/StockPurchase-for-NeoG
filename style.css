@@ -1,0 +1,18 @@
+main{
+    text-align: center;
+    padding-top: 1.75rem;
+    border: double 0.5rem;
+}
+
+label{
+    display: block;
+    padding-bottom: 2rem;
+}
+
+#output-ref{
+    padding: 2rem;   
+}
+
+body{
+    text-align: center;
+}
